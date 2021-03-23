@@ -1,4 +1,5 @@
 # Pocket Lissajou
+* 256 byte intro
 
 ## Tech tech
 * Game Boy Color
