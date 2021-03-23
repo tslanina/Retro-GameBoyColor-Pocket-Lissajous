@@ -1,8 +1,8 @@
 # Pocket Lissajou
-* 256 byte intro
 
 ## Tech tech
 * Game Boy Color
+* 256 byte intro
 * LR35902 (SM83) 8bit CPU 
 * Pure assembler code
 ## Screenshots
