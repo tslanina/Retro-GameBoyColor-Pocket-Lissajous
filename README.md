@@ -1,4 +1,4 @@
-# Pocket Lissajou
+# Pocket Lissajous
 
 ## Tech tech
 * Game Boy Color
