@@ -1,4 +1,4 @@
-; Pocket Lissajou
+; Pocket Lissajous
 ; 256b Intro
 ; GameBoy Color
 ;
