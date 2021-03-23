@@ -1,6 +1,6 @@
 # Pocket Lissajou
 
-## Tech Infos
+## Tech tech
 * Game Boy Color
 * LR35902 (SM83) 8bit CPU 
 * Pure assembler code
